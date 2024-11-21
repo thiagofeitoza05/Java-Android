@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="primeiro_num"> Primeiro número </string>
+    <string name="segundo_num"> Segundo número </string>
+    <string name="somatório"> Somar </string>
+    <string name="comparar"> Comparar </string>
+    <string name="maior"> O maior é: </string>
+    <string name="textSomatória"> A soma é: </string>
+
+</resources>
